@@ -1,0 +1,14 @@
+.container {
+  background-color: beige;
+}
+
+h1 {
+  color: red;
+  font: Helvetica;
+}
+
+h2, div {
+  background-color: lightgrey;
+  color: red;
+  font-family: Futura; sans serif;
+}
